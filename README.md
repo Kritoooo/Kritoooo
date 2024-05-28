@@ -10,5 +10,5 @@
 - ⚡ 高性能计算
 
 ## 联系方式
-- [个人网站](www.krito2023.com) 🌐
-- [Gmail](www.krito2023@gmail.com) 🐦
+- [个人网站](https://krito2023.com/) 🌐
+- Gmail: krito2023@gmail.com 🐦
