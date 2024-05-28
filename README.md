@@ -1,3 +1,18 @@
+# Hello, welcome to my GitHub page! 👋
+
+I am Krito, passionate about computer architecture and AI infrastructure. 🚀   
+Currently, I am focused on compiler development and aim to drive technological advancements through my work. 💡
+
+## My Interests and Expertise
+- 🖥️ Computer Architecture
+- 🌐 Distributed Systems
+- 🤖 AI Infrastructure
+- ⚡ High-Performance Computing
+
+## Contact
+- [Personal Website](https://krito2023.com/) 🌐
+- Gmail: krito2023@gmail.com 🐦
+
 # 你好，欢迎来到我的GitHub主页！ 👋
 
 我是Krito，对计算机体系结构和AI基础设施充满热情。🚀   
