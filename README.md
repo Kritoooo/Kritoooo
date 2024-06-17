@@ -12,3 +12,5 @@
 ## 联系方式
 - [个人网站](https://krito2023.com/) 🌐
 - Gmail: krito2023@gmail.com 🐦
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritoooo)](https://github.com/anuraghazra/github-readme-stats)
