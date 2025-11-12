@@ -12,5 +12,3 @@ I’ve worked on compiler development and now am a streaming-media service devel
 ## Contact Information
 - [Personal Website](https://krito2023.com/) 🌐
 - Gmail: krito2023@gmail.com 🐦
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritoooo)](https://github.com/anuraghazra/github-readme-stats)
